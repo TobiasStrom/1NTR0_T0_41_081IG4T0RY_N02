@@ -2,5 +2,5 @@
 
 
 \Emilis Bruzas - s331428
-\!Tobias Strøm - s331392
-\!Lars Kristian Bårdevik - s331418
+\Tobias Strøm - s331392
+\Lars Kristian Bårdevik - s331418
